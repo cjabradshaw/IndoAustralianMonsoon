@@ -56,7 +56,7 @@ gmMean = function(x, na.rm=TRUE){
   exp(sum(log(x[x > 0]), na.rm=na.rm) / length(x))
 }
 
-## sample avoiding consecutive values of order o
+## sample avoiding consecutive values of order 'ord'
 NonSeqSample <- function(x, size, ord=1, replace) {
   # x = vector to sample
   # size = size of resample
