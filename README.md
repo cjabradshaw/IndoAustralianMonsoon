@@ -9,20 +9,20 @@ Contributors: <a href="https://globalecologyflinders.com/people/#CJAB">Corey J. 
 - <code>GirraweenMonsoonGithub.R</code>
 
 ## Data
-- <em>ChSpeleo2.csv</em>: China speleothem record (<sup>18</sup>O)
-- <em>LOVECLIM_NTRegionClimate(1-150ka)_anomalies(Precipitation).csv</em>: LOVECLIM GCM hindcasts of precipitation anomalies for northern Australia
-- <em>LOVECLIM_SARegionClimate(1-150ka)_anomalies(Precipitation).csv</em>: LOVECLIM GCM hindcasts of precipitation anomalies for South Asia
-- <em>LOVECLIM_Gironly(1-150ka)_anomalies(Precip).csv</em>: LOVECLIM GCM hindcasts of precipitation anomalies for the Girraween cell
-- <em>rainLoveClGWdistcor2.csv</em>: distance-to-coast-corrected rainfall at Girraween from LOVECLIM hindcasts
-- <em>NTRegionClimate(0-150ka)_anomalies(Precipitation)</em>: HadCM3 GCM hindcasts of precipitation anomalies for northern Australia
-- <em>HadCM3_Gironly(0-150ka)_anomalies(Precip).csv</em>: HadCM3 GCM hindcasts of precipitation anomalies for the Girraween cell
-- <em>HADCMS rel rainfall.csv</em>: distance-to-coast-corrected rainfall at Girraween from LOVECLIM hindcasts
+- <em>ChSpeleo2.csv</em>: China <a href="https://doi.org/10.1029/2011GL050202">speleothem</a> record (<sup>18</sup>O)
+- <em>LOVECLIM_NTRegionClimate(1-150ka)_anomalies(Precipitation).csv</em>: <a href="https://gmd.copernicus.org/articles/3/603/2010/">LOVECLIM</a> global circulation model hindcasts of precipitation anomalies for northern Australia
+- <em>LOVECLIM_SARegionClimate(1-150ka)_anomalies(Precipitation).csv</em>: LOVECLIM global circulation model hindcasts of precipitation anomalies for South Asia
+- <em>LOVECLIM_Gironly(1-150ka)_anomalies(Precip).csv</em>: LOVECLIM global circulation model hindcasts of precipitation anomalies for the <a href="https://doi.org/10.1017/qua.2020.50">Girraween</a> cell
+- <em>rainLoveClGWdistcor2.csv</em>: distance-to-coast-corrected rainfall at Girraween from the LOVECLIM global circulation model hindcasts
+- <em>NTRegionClimate(0-150ka)_anomalies(Precipitation)</em>: <a href="https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model/climate-models/hadcm3">Hadley Centre Coupled Model version 3</a> (HadCM3) global circulation model hindcasts of precipitation anomalies for northern Australia
+- <em>HadCM3_Gironly(0-150ka)_anomalies(Precip).csv</em>: Hadley Centre Coupled Model version 3 (HadCM3) global circulation model hindcasts of precipitation anomalies for the <a href="https://doi.org/10.1017/qua.2020.50">Girraween</a> cell
+- <em>HADCMS rel rainfall.csv</em>: distance-to-coast-corrected rainfall at Girraween from Hadley Centre Coupled Model version 3 (HadCM3) hindcasts
 - <em>rainrel.csv</em>: a test corrected rainfall dataset (redacted)
-- <em>Hiso.csv</em>: hydrogen isotope (Girraween core)
-- <em>dole2.csv</em>: Dole ΔDE* ‰
-- <em>insol.csv</em>: insolation W m<sup>-2</sup>
-- <em>toc.csv</em>: % total organic carbon (Girraween core)
-- <em>tree.csv</em>: % tree pollen (Girraween core)
+- <em>Hiso.csv</em>: hydrogen isotope (<a href="https://doi.org/10.1017/qua.2020.50">Girraween</a> core)
+- <em>dole2.csv</em>: <a href="https://link.springer.com/referenceworkentry/10.1007/978-1-4020-4411-3_71">iDole effect</a> ΔDE* ‰
+- <em>insol.csv</em>: <a href="https://www.sciencedirect.com/topics/earth-and-planetary-sciences/insolation">insolation</a> W m<sup>-2</sup>
+- <em>toc.csv</em>: % total organic carbon (<a href="https://doi.org/10.1017/qua.2020.50">Girraween</a> core)
+- <em>tree.csv</em>: % tree pollen (<a href="https://doi.org/10.1017/qua.2020.50">Girraween</a> core)
 
 ## R libraries
 - <code>spatstat</code>, <code>gstat</code>, <code>maps</code>, <code>sp</code>, <code>ape</code>, <code>permute</code>, <code>ggplot2</code>, <code>dplyr</code>, <code>boot</code>
