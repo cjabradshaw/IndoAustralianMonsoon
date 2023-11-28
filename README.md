@@ -8,21 +8,22 @@ Contributors: <a href="https://globalecologyflinders.com/people/#CJAB">Corey J. 
 - <code>GirraweenMonsoonGithub.R</code>
 
 ## Data
-- ChSpeleo2.csv: China speleothem record (<sup>18</sup>O)
-- LOVECLIM_NTRegionClimate(1-150ka)_anomalies(Precipitation).csv: LOVECLIM GCM hindcasts of precipitation anomalies for northern Australia
-- LOVECLIM_SARegionClimate(1-150ka)_anomalies(Precipitation).csv: LOVECLIM GCM hindcasts of precipitation anomalies for South Asia
-- LOVECLIM_Gironly(1-150ka)_anomalies(Precip).csv: LOVECLIM GCM hindcasts of precipitation anomalies for the Girraween cell
-- rainLoveClGWdistcor2.csv: distance-to-coast-corrected rainfall at Girraween from LOVECLIM hindcasts
-- NTRegionClimate(0-150ka)_anomalies(Precipitation): HadCM3 GCM hindcasts of precipitation anomalies for northern Australia
-- HadCM3_Gironly(0-150ka)_anomalies(Precip).csv: HadCM3 GCM hindcasts of precipitation anomalies for the Girraween cell
-- HADCMS rel rainfall.csv: distance-to-coast-corrected rainfall at Girraween from LOVECLIM hindcasts
-- rainrel.csv: a test corrected rainfall dataset (redacted)
-- Hiso.csv: hydrogen isotope (Girraween core)
-- dole2.csv: Dole ΔDE* ‰
-- insol.csv: insolation W m<sup>-2</sup>
-- toc.csv: % total organic carbon (Girraween core)
-- tree.csv: % tree pollen (Girraween core)
+- <em>ChSpeleo2.csv</em>: China speleothem record (<sup>18</sup>O)
+- <em>LOVECLIM_NTRegionClimate(1-150ka)_anomalies(Precipitation).csv</em>: LOVECLIM GCM hindcasts of precipitation anomalies for northern Australia
+- <em>LOVECLIM_SARegionClimate(1-150ka)_anomalies(Precipitation).csv</em>: LOVECLIM GCM hindcasts of precipitation anomalies for South Asia
+- <em>LOVECLIM_Gironly(1-150ka)_anomalies(Precip).csv</em>: LOVECLIM GCM hindcasts of precipitation anomalies for the Girraween cell
+- <em>rainLoveClGWdistcor2.csv</em>: distance-to-coast-corrected rainfall at Girraween from LOVECLIM hindcasts
+- <em>NTRegionClimate(0-150ka)_anomalies(Precipitation)</em>: HadCM3 GCM hindcasts of precipitation anomalies for northern Australia
+- <em>HadCM3_Gironly(0-150ka)_anomalies(Precip).csv</em>: HadCM3 GCM hindcasts of precipitation anomalies for the Girraween cell
+- <em>HADCMS rel rainfall.csv</em>: distance-to-coast-corrected rainfall at Girraween from LOVECLIM hindcasts
+- <em>rainrel.csv</em>: a test corrected rainfall dataset (redacted)
+- <em>Hiso.csv</em>: hydrogen isotope (Girraween core)
+- <em>dole2.csv</em>: Dole ΔDE* ‰
+- <em>insol.csv</em>: insolation W m<sup>-2</sup>
+- <em>toc.csv</em>: % total organic carbon (Girraween core)
+- <em>tree.csv</em>: % tree pollen (Girraween core)
 
 ## R libraries
-- x
+- <code>spatstat</code>, <code>gstat</code>, <code>maps</code>, <code>sp</code>, <code>ape</code>, <code>permute</code>, <code>ggplot2</code>, <code>dplyr</code>, <code>boot</code>
+<code>tmvnsim</code>, <code>wCorr</code>, <code>truncnorm</code>, <code>orcutt</code>, <code>lmtest</code>
 
