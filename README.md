@@ -1,6 +1,6 @@
 # Indo-Australian Moonsoon record
 A continuous, absolute-dated, 150,000-year record of monsoon hydroclimate dynamics from a permanent lagoon (<a href="https://doi.org/10.1017/qua.2020.50">Girraween</a>) in the core monsoon region of northern Australia, compared to global circulation model hindcasts
-<p><a href="[https://www.flinders.edu.au](https://www.arc.gov.au/news-publications/media/research-highlights/getting-bottom-girraween-lagoon)"><img align="bottom-left" src="www/GirraweenCoring.jpg" alt="coring on Girraween Lagoon" width="350" style="margin-top: 0px"></a>  &nbsp; &nbsp;<img align="bottom-right" src="www/LOVECLIMspelprcpLprcpGcorL.jpg" alt="example time series" width="440" style="margin-top: 40px"></p>
+<p><a href="[https://www.flinders.edu.au](https://www.arc.gov.au/news-publications/media/research-highlights/getting-bottom-girraween-lagoon)"><img align="bottom-left" src="www/GirraweenCoring.jpg" alt="coring on Girraween Lagoon" width="350" style="margin-top: 0px"></a>  &nbsp; &nbsp;<img align="bottom-right" src="www/LOVECLIMspelprcpLprcpGcorL.jpg" alt="example time series" width="420" style="margin-top: 40px"></p>
 
 Contributors: <a href="https://globalecologyflinders.com/people/#CJAB">Corey J. A. Bradshaw</a>, <a href="https://globalecologyflinders.com/people/#FS">Frédérik Saltré</a>, <a href="https://research.jcu.edu.au/portfolio/michael.bird">Michael Bird</a>
 
