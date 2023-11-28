@@ -28,5 +28,5 @@ Contributors: <a href="https://globalecologyflinders.com/people/#CJAB">Corey J. 
 <code>tmvnsim</code>, <code>wCorr</code>, <code>truncnorm</code>, <code>orcutt</code>, <code>lmtest</code>
 
 <a href="https://www.flinders.edu.au"><img align="bottom-left" src="www/Flinders_University_Logo_Horizontal_RGB_Master.png" alt="Flinders University logo" width="160" style="margin-top: 20px"></a>
-<a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="150" style="margin-top: 20px"></a> <a href="https://EpicAustralia.org.au"><img align="bottom-left" src="www/CabahFCL.jpg" alt="CABAH logo" width="150" style="margin-top: 20px"></a> <a href="https://www.jcu.edu.au"><img align="bottom-left" src="www/jculogo.png" alt="JCU logo" width="110" style="margin-top: 20px"></a></a>
+<a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="100" style="margin-top: 20px"></a> <a href="https://EpicAustralia.org.au"><img align="bottom-left" src="www/CabahFCL.jpg" alt="CABAH logo" width="200" style="margin-top: 20px"></a> <a href="https://www.jcu.edu.au"><img align="bottom-left" src="www/jculogo.png" alt="JCU logo" width="700" style="margin-top: 20px"></a></a>
 
