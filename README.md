@@ -1,5 +1,5 @@
 # Indo-Australian Moonsoon record
-<img align="bottom-left" src="www/LOVECLIMspelprcpLprcpGcorL.jpg" alt="example time series" width="200" style="margin-top: 20px">
+<img align="bottom-right" src="www/LOVECLIMspelprcpLprcpGcorL.jpg" alt="example time series" width="400" style="margin-top: 20px">
 
 A continuous, absolute-dated, 150,000-year record of monsoon hydroclimate dynamics from a permanent lagoon in the core monsoon region of northern Australia, compared to global circulation model hindcasts
 
