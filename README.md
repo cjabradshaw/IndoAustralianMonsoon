@@ -19,7 +19,7 @@ Contributors: <a href="https://globalecologyflinders.com/people/#CJAB">Corey J. 
 - <em>HADCMS rel rainfall.csv</em>: distance-to-coast-corrected rainfall at Girraween from Hadley Centre Coupled Model version 3 (HadCM3) hindcasts
 - <em>rainrel.csv</em>: a test corrected rainfall dataset (redacted)
 - <em>Hiso.csv</em>: hydrogen isotope (<a href="https://doi.org/10.1017/qua.2020.50">Girraween</a> core)
-- <em>dole2.csv</em>: <a href="https://link.springer.com/referenceworkentry/10.1007/978-1-4020-4411-3_71">iDole effect</a> ΔDE* ‰
+- <em>dole2.csv</em>: <a href="https://link.springer.com/referenceworkentry/10.1007/978-1-4020-4411-3_71">Dole effect</a> ΔDE* ‰
 - <em>insol.csv</em>: <a href="https://www.sciencedirect.com/topics/earth-and-planetary-sciences/insolation">insolation</a> W m<sup>-2</sup>
 - <em>toc.csv</em>: % total organic carbon (<a href="https://doi.org/10.1017/qua.2020.50">Girraween</a> core)
 - <em>tree.csv</em>: % tree pollen (<a href="https://doi.org/10.1017/qua.2020.50">Girraween</a> core)
