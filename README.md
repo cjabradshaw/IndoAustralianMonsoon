@@ -6,7 +6,7 @@ Contributors: <a href="https://globalecologyflinders.com/people/#CJAB">Corey J. 
 
 
 ## <a href="https://github.com/cjabradshaw/IndoAustralianMoonsoon/tree/main/scripts">Scripts</a>
-- <code>GirraweenMonsoonGithub.R</code>
+- <a href="https://github.com/cjabradshaw/IndoAustralianMoonsoon/blob/main/scripts/GirraweenMonsoonGithub.R"><code>GirraweenMonsoonGithub.R</code></a>
 
 ## <a href="https://github.com/cjabradshaw/IndoAustralianMoonsoon/tree/main/data">Data</a>
 - <em>ChSpeleo2.csv</em>: China <a href="https://doi.org/10.1029/2011GL050202">speleothem</a> record (<sup>18</sup>O)
