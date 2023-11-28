@@ -5,10 +5,10 @@ A continuous, absolute-dated, 150,000-year record of monsoon hydroclimate dynami
 Contributors: <a href="https://globalecologyflinders.com/people/#CJAB">Corey J. A. Bradshaw</a>, <a href="https://globalecologyflinders.com/people/#FS">Frédérik Saltré</a>, <a href="https://research.jcu.edu.au/portfolio/michael.bird">Michael Bird</a>
 
 
-## Scripts
+## <a href="https://github.com/cjabradshaw/IndoAustralianMoonsoon/tree/main/scripts">Scripts</a>
 - <code>GirraweenMonsoonGithub.R</code>
 
-## Data
+## <a href="https://github.com/cjabradshaw/IndoAustralianMoonsoon/tree/main/data">Data</a>
 - <em>ChSpeleo2.csv</em>: China <a href="https://doi.org/10.1029/2011GL050202">speleothem</a> record (<sup>18</sup>O)
 - <em>LOVECLIM_NTRegionClimate(1-150ka)_anomalies(Precipitation).csv</em>: <a href="https://gmd.copernicus.org/articles/3/603/2010/">LOVECLIM</a> global circulation model hindcasts of precipitation anomalies for northern Australia
 - <em>LOVECLIM_SARegionClimate(1-150ka)_anomalies(Precipitation).csv</em>: LOVECLIM global circulation model hindcasts of precipitation anomalies for South Asia
