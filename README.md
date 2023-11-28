@@ -1,4 +1,6 @@
 # Indo-Australian Moonsoon record
+<img align="bottom-left" src="www/LOVECLIMspelprcpLprcpGcorL.jpg" alt="example time series" width="200" style="margin-top: 20px">
+
 A continuous, absolute-dated, 150,000-year record of monsoon hydroclimate dynamics from a permanent lagoon in the core monsoon region of northern Australia, compared to global circulation model hindcasts
 
 Contributors: <a href="https://globalecologyflinders.com/people/#CJAB">Corey J. A. Bradshaw</a>, <a href="https://globalecologyflinders.com/people/#FS">Frédérik Saltré</a>, <a href="https://research.jcu.edu.au/portfolio/michael.bird">Michael Bird</a>
