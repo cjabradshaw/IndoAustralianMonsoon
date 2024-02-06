@@ -4,6 +4,12 @@ A continuous, absolute-dated, 150,000-year record of monsoon hydroclimate dynami
 
 Contributors: <a href="https://globalecologyflinders.com/people/#CJAB">Corey J. A. Bradshaw</a>, <a href="https://globalecologyflinders.com/people/#FS">Frédérik Saltré</a>, <a href="https://research.jcu.edu.au/portfolio/michael.bird">Michael Bird</a>
 
+Accompanies paper:<br>
+<br>
+Bird, MI, M Brand, R Comley, X Hadeen, Z Jacobs, C Rowe, F Saltré, CM Wurster, C Zwart, CJA Bradshaw. A 150,000 year terrestrial record of major change in Indonesian-Australian monsoon activity. In preparation
+
+## Abstract
+Nearly two thirds of the world’s population depends on monsoon rainfall. Monsoon failure and extreme precipitation events have impacted societies for millennia, but the distribution and amount of monsoon precipitation is predicted to change with climate warming, albeit regional trajectories are uncertain. Multiple terrestrial records of east Asian monsoon variability over multiple glacial-interglacial cycles have been developed in the last decade, but there are no terrestrial records of equivalent length of the coupled Indo-Australian monsoon towards the southern monsoon limit — the Australian continent. Here we present a continuous, absolute-dated, 150,000-year record of monsoon hydroclimate dynamics from a permanent lagoon in the core monsoon region of northern Australia. We show that Australian rainfall is broadly anti-phased with the East Asian monsoon. We identify periods of intense monsoon activity associated with high local insolation in Marine Isotope Stage 5 during known ‘megalake’ phases in the arid interior of Australia. We also identify periods of monsoon intensification unrelated to insolation maxima, but associated with Heinrich events coincident with weak monsoon events in East Asia. The results suggest that strong asymmetry in inter-hemispheric monsoon rainfall  might accompany any weakening in the strength of the Atlantic meridional overturning circulation resulting from future climate change. This asymmetry will involve drying in the heavily populated monsoon domain of the Northern Hemisphere and intensification of rainfall in the Southern Hemisphere.
 
 ## <a href="https://github.com/cjabradshaw/IndoAustralianMoonsoon/tree/main/scripts">Scripts</a>
 - <a href="https://github.com/cjabradshaw/IndoAustralianMoonsoon/blob/main/scripts/GirraweenMonsoonGithub.R"><code>GirraweenMonsoonGithub.R</code></a>
