@@ -1658,7 +1658,7 @@ p.lo[12,1] <- insoltree.p.lo
 p.lo[6,3] <- MaO18prcpGcorL.p.lo
 p.lo[7,3] <- doleprcpGcorL.p.lo
 p.lo[11,3] <- HisoprcpGcorL.p.lo
-p.lo[12,3] <- treeprcpGcorL.p.lo;
+p.lo[12,3] <- treeprcpGcorL.p.lo
 p.lo[6,4] <- MaO18prcpGL.p.lo
 p.lo[7,4] <- doleprcpGL.p.lo
 p.lo[11,4] <- HisoprcpGL.p.lo
@@ -1670,7 +1670,7 @@ p.lo[12,5] <- treeprcpGcorH.p.lo
 p.lo[6,6] <- MaO18prcpGH.p.lo
 p.lo[7,6] <- doleprcpGH.p.lo
 p.lo[11,6] <- HisoprcpGH.p.lo
-p.lo[12,6] <- treeprcpGH.p.lo;
+p.lo[12,6] <- treeprcpGH.p.lo
 p.lo[7,7] <- MaO18dole.p.lo
 p.lo[8,7] <- MaO18prcpL.p.lo
 p.lo[9,7] <- MaO18prcpH.p.lo
@@ -1703,7 +1703,7 @@ p.up[12,1] <- insoltree.p.up
 p.up[6,3] <- MaO18prcpGcorL.p.up
 p.up[7,3] <- doleprcpGcorL.p.up
 p.up[11,3] <- HisoprcpGcorL.p.up
-p.up[12,3] <- treeprcpGcorL.p.up;
+p.up[12,3] <- treeprcpGcorL.p.up
 p.up[6,4] <- MaO18prcpGL.p.up
 p.up[7,4] <- doleprcpGL.p.up
 p.up[11,4] <- HisoprcpGL.p.up
@@ -1715,7 +1715,7 @@ p.up[12,5] <- treeprcpGcorH.p.up
 p.up[6,6] <- MaO18prcpGH.p.up
 p.up[7,6] <- doleprcpGH.p.up
 p.up[11,6] <- HisoprcpGH.p.up
-p.up[12,6] <- treeprcpGH.p.up;
+p.up[12,6] <- treeprcpGH.p.up
 p.up[7,7] <- MaO18dole.p.up
 p.up[8,7] <- MaO18prcpL.p.up
 p.up[9,7] <- MaO18prcpH.p.up
@@ -1748,7 +1748,7 @@ p.mn[12,1] <- insoltree.p.mn
 p.mn[6,3] <- MaO18prcpGcorL.p.mn
 p.mn[7,3] <- doleprcpGcorL.p.mn
 p.mn[11,3] <- HisoprcpGcorL.p.mn
-p.mn[12,3] <- treeprcpGcorL.p.mn;
+p.mn[12,3] <- treeprcpGcorL.p.mn
 p.mn[6,4] <- MaO18prcpGL.p.mn
 p.mn[7,4] <- doleprcpGL.p.mn
 p.mn[11,4] <- HisoprcpGL.p.mn
@@ -1760,7 +1760,7 @@ p.mn[12,5] <- treeprcpGcorH.p.mn
 p.mn[6,6] <- MaO18prcpGH.p.mn
 p.mn[7,6] <- doleprcpGH.p.mn
 p.mn[11,6] <- HisoprcpGH.p.mn
-p.mn[12,6] <- treeprcpGH.p.mn;
+p.mn[12,6] <- treeprcpGH.p.mn
 p.mn[7,7] <- MaO18dole.p.mn
 p.mn[8,7] <- MaO18prcpL.p.mn
 p.mn[9,7] <- MaO18prcpH.p.mn
@@ -1793,7 +1793,7 @@ R2.lo[12,1] <- insoltree.R2.lo
 R2.lo[6,3] <- MaO18prcpGcorL.R2.lo
 R2.lo[7,3] <- doleprcpGcorL.R2.lo
 R2.lo[11,3] <- HisoprcpGcorL.R2.lo
-R2.lo[12,3] <- treeprcpGcorL.R2.lo;
+R2.lo[12,3] <- treeprcpGcorL.R2.lo
 R2.lo[6,4] <- MaO18prcpGL.R2.lo
 R2.lo[7,4] <- doleprcpGL.R2.lo
 R2.lo[11,4] <- HisoprcpGL.R2.lo
@@ -1805,7 +1805,7 @@ R2.lo[12,5] <- treeprcpGcorH.R2.lo
 R2.lo[6,6] <- MaO18prcpGH.R2.lo
 R2.lo[7,6] <- doleprcpGH.R2.lo
 R2.lo[11,6] <- HisoprcpGH.R2.lo
-R2.lo[12,6] <- treeprcpGH.R2.lo;
+R2.lo[12,6] <- treeprcpGH.R2.lo
 R2.lo[7,7] <- MaO18dole.R2.lo
 R2.lo[8,7] <- MaO18prcpL.R2.lo
 R2.lo[9,7] <- MaO18prcpH.R2.lo
@@ -1841,7 +1841,7 @@ R2.up[12,1] <- insoltree.R2.up
 R2.up[6,3] <- MaO18prcpGcorL.R2.up
 R2.up[7,3] <- doleprcpGcorL.R2.up
 R2.up[11,3] <- HisoprcpGcorL.R2.up
-R2.up[12,3] <- treeprcpGcorL.R2.up;
+R2.up[12,3] <- treeprcpGcorL.R2.up
 R2.up[6,4] <- MaO18prcpGL.R2.up
 R2.up[7,4] <- doleprcpGL.R2.up
 R2.up[11,4] <- HisoprcpGL.R2.up
@@ -1853,7 +1853,7 @@ R2.up[12,5] <- treeprcpGcorH.R2.up
 R2.up[6,6] <- MaO18prcpGH.R2.up
 R2.up[7,6] <- doleprcpGH.R2.up
 R2.up[11,6] <- HisoprcpGH.R2.up
-R2.up[12,6] <- treeprcpGH.R2.up;
+R2.up[12,6] <- treeprcpGH.R2.up
 R2.up[7,7] <- MaO18dole.R2.up
 R2.up[8,7] <- MaO18prcpL.R2.up
 R2.up[9,7] <- MaO18prcpH.R2.up
@@ -1886,7 +1886,7 @@ R2.mn[12,1] <- insoltree.R2.mn
 R2.mn[6,3] <- MaO18prcpGcorL.R2.mn
 R2.mn[7,3] <- doleprcpGcorL.R2.mn
 R2.mn[11,3] <- HisoprcpGcorL.R2.mn
-R2.mn[12,3] <- treeprcpGcorL.R2.mn;
+R2.mn[12,3] <- treeprcpGcorL.R2.mn
 R2.mn[6,4] <- MaO18prcpGL.R2.mn
 R2.mn[7,4] <- doleprcpGL.R2.mn
 R2.mn[11,4] <- HisoprcpGL.R2.mn
@@ -1898,7 +1898,7 @@ R2.mn[12,5] <- treeprcpGcorH.R2.mn
 R2.mn[6,6] <- MaO18prcpGH.R2.mn
 R2.mn[7,6] <- doleprcpGH.R2.mn
 R2.mn[11,6] <- HisoprcpGH.R2.mn
-R2.mn[12,6] <- treeprcpGH.R2.mn;
+R2.mn[12,6] <- treeprcpGH.R2.mn
 R2.mn[7,7] <- MaO18dole.R2.mn
 R2.mn[8,7] <- MaO18prcpL.R2.mn
 R2.mn[9,7] <- MaO18prcpH.R2.mn
@@ -1931,7 +1931,7 @@ slope.lo[12,1] <- insoltree.slope.lo
 slope.lo[6,3] <- MaO18prcpGcorL.slope.lo
 slope.lo[7,3] <- doleprcpGcorL.slope.lo
 slope.lo[11,3] <- HisoprcpGcorL.slope.lo
-slope.lo[12,3] <- treeprcpGcorL.slope.lo;
+slope.lo[12,3] <- treeprcpGcorL.slope.lo
 slope.lo[6,4] <- MaO18prcpGL.slope.lo
 slope.lo[7,4] <- doleprcpGL.slope.lo
 slope.lo[11,4] <- HisoprcpGL.slope.lo
@@ -1943,7 +1943,7 @@ slope.lo[12,5] <- treeprcpGcorH.slope.lo
 slope.lo[6,6] <- MaO18prcpGH.slope.lo
 slope.lo[7,6] <- doleprcpGH.slope.lo
 slope.lo[11,6] <- HisoprcpGH.slope.lo
-slope.lo[12,6] <- treeprcpGH.slope.lo;
+slope.lo[12,6] <- treeprcpGH.slope.lo
 slope.lo[7,7] <- MaO18dole.slope.lo
 slope.lo[8,7] <- MaO18prcpL.slope.lo
 slope.lo[9,7] <- MaO18prcpH.slope.lo
@@ -1976,7 +1976,7 @@ slope.up[12,1] <- insoltree.slope.up
 slope.up[6,3] <- MaO18prcpGcorL.slope.up
 slope.up[7,3] <- doleprcpGcorL.slope.up
 slope.up[11,3] <- HisoprcpGcorL.slope.up
-slope.up[12,3] <- treeprcpGcorL.slope.up;
+slope.up[12,3] <- treeprcpGcorL.slope.up
 slope.up[6,4] <- MaO18prcpGL.slope.up
 slope.up[7,4] <- doleprcpGL.slope.up
 slope.up[11,4] <- HisoprcpGL.slope.up
@@ -1988,7 +1988,7 @@ slope.up[12,5] <- treeprcpGcorH.slope.up
 slope.up[6,6] <- MaO18prcpGH.slope.up
 slope.up[7,6] <- doleprcpGH.slope.up
 slope.up[11,6] <- HisoprcpGH.slope.up
-slope.up[12,6] <- treeprcpGH.slope.up;
+slope.up[12,6] <- treeprcpGH.slope.up
 slope.up[7,7] <- MaO18dole.slope.up
 slope.up[8,7] <- MaO18prcpL.slope.up
 slope.up[9,7] <- MaO18prcpH.slope.up
@@ -2546,7 +2546,7 @@ p.rs.lo[12,1] <- insoltree.p.rs.lo
 p.rs.lo[6,3] <- MaO18prcpGcorL.p.rs.lo
 p.rs.lo[7,3] <- doleprcpGcorL.p.rs.lo
 p.rs.lo[11,3] <- HisoprcpGcorL.p.rs.lo
-p.rs.lo[12,3] <- treeprcpGcorL.p.rs.lo;
+p.rs.lo[12,3] <- treeprcpGcorL.p.rs.lo
 p.rs.lo[6,4] <- MaO18prcpGL.p.rs.lo
 p.rs.lo[7,4] <- doleprcpGL.p.rs.lo
 p.rs.lo[11,4] <- HisoprcpGL.p.rs.lo
@@ -2558,7 +2558,7 @@ p.rs.lo[12,5] <- treeprcpGcorH.p.rs.lo
 p.rs.lo[6,6] <- MaO18prcpGH.p.rs.lo
 p.rs.lo[7,6] <- doleprcpGH.p.rs.lo
 p.rs.lo[11,6] <- HisoprcpGH.p.rs.lo
-p.rs.lo[12,6] <- treeprcpGH.p.rs.lo;
+p.rs.lo[12,6] <- treeprcpGH.p.rs.lo
 p.rs.lo[7,7] <- MaO18dole.p.rs.lo
 p.rs.lo[8,7] <- MaO18prcpL.p.rs.lo
 p.rs.lo[9,7] <- MaO18prcpH.p.rs.lo
@@ -2591,7 +2591,7 @@ p.rs.up[12,1] <- insoltree.p.rs.up
 p.rs.up[6,3] <- MaO18prcpGcorL.p.rs.up
 p.rs.up[7,3] <- doleprcpGcorL.p.rs.up
 p.rs.up[11,3] <- HisoprcpGcorL.p.rs.up
-p.rs.up[12,3] <- treeprcpGcorL.p.rs.up;
+p.rs.up[12,3] <- treeprcpGcorL.p.rs.up
 p.rs.up[6,4] <- MaO18prcpGL.p.rs.up
 p.rs.up[7,4] <- doleprcpGL.p.rs.up
 p.rs.up[11,4] <- HisoprcpGL.p.rs.up
@@ -2603,7 +2603,7 @@ p.rs.up[12,5] <- treeprcpGcorH.p.rs.up
 p.rs.up[6,6] <- MaO18prcpGH.p.rs.up
 p.rs.up[7,6] <- doleprcpGH.p.rs.up
 p.rs.up[11,6] <- HisoprcpGH.p.rs.up
-p.rs.up[12,6] <- treeprcpGH.p.rs.up;
+p.rs.up[12,6] <- treeprcpGH.p.rs.up
 p.rs.up[7,7] <- MaO18dole.p.rs.up
 p.rs.up[8,7] <- MaO18prcpL.p.rs.up
 p.rs.up[9,7] <- MaO18prcpH.p.rs.up
@@ -2636,7 +2636,7 @@ p.rs.mn[12,1] <- insoltree.p.rs.mn
 p.rs.mn[6,3] <- MaO18prcpGcorL.p.rs.mn
 p.rs.mn[7,3] <- doleprcpGcorL.p.rs.mn
 p.rs.mn[11,3] <- HisoprcpGcorL.p.rs.mn
-p.rs.mn[12,3] <- treeprcpGcorL.p.rs.mn;
+p.rs.mn[12,3] <- treeprcpGcorL.p.rs.mn
 p.rs.mn[6,4] <- MaO18prcpGL.p.rs.mn
 p.rs.mn[7,4] <- doleprcpGL.p.rs.mn
 p.rs.mn[11,4] <- HisoprcpGL.p.rs.mn
@@ -2648,7 +2648,7 @@ p.rs.mn[12,5] <- treeprcpGcorH.p.rs.mn
 p.rs.mn[6,6] <- MaO18prcpGH.p.rs.mn
 p.rs.mn[7,6] <- doleprcpGH.p.rs.mn
 p.rs.mn[11,6] <- HisoprcpGH.p.rs.mn
-p.rs.mn[12,6] <- treeprcpGH.p.rs.mn;
+p.rs.mn[12,6] <- treeprcpGH.p.rs.mn
 p.rs.mn[7,7] <- MaO18dole.p.rs.mn
 p.rs.mn[8,7] <- MaO18prcpL.p.rs.mn
 p.rs.mn[9,7] <- MaO18prcpH.p.rs.mn
@@ -2681,7 +2681,7 @@ R2.rs.lo[12,1] <- insoltree.R2.rs.lo
 R2.rs.lo[6,3] <- MaO18prcpGcorL.R2.rs.lo
 R2.rs.lo[7,3] <- doleprcpGcorL.R2.rs.lo
 R2.rs.lo[11,3] <- HisoprcpGcorL.R2.rs.lo
-R2.rs.lo[12,3] <- treeprcpGcorL.R2.rs.lo;
+R2.rs.lo[12,3] <- treeprcpGcorL.R2.rs.lo
 R2.rs.lo[6,4] <- MaO18prcpGL.R2.rs.lo
 R2.rs.lo[7,4] <- doleprcpGL.R2.rs.lo
 R2.rs.lo[11,4] <- HisoprcpGL.R2.rs.lo
@@ -2693,7 +2693,7 @@ R2.rs.lo[12,5] <- treeprcpGcorH.R2.rs.lo
 R2.rs.lo[6,6] <- MaO18prcpGH.R2.rs.lo
 R2.rs.lo[7,6] <- doleprcpGH.R2.rs.lo
 R2.rs.lo[11,6] <- HisoprcpGH.R2.rs.lo
-R2.rs.lo[12,6] <- treeprcpGH.R2.rs.lo;
+R2.rs.lo[12,6] <- treeprcpGH.R2.rs.lo
 R2.rs.lo[7,7] <- MaO18dole.R2.rs.lo
 R2.rs.lo[8,7] <- MaO18prcpL.R2.rs.lo
 R2.rs.lo[9,7] <- MaO18prcpH.R2.rs.lo
@@ -2726,7 +2726,7 @@ R2.rs.up[12,1] <- insoltree.R2.rs.up
 R2.rs.up[6,3] <- MaO18prcpGcorL.R2.rs.up
 R2.rs.up[7,3] <- doleprcpGcorL.R2.rs.up
 R2.rs.up[11,3] <- HisoprcpGcorL.R2.rs.up
-R2.rs.up[12,3] <- treeprcpGcorL.R2.rs.up;
+R2.rs.up[12,3] <- treeprcpGcorL.R2.rs.up
 R2.rs.up[6,4] <- MaO18prcpGL.R2.rs.up
 R2.rs.up[7,4] <- doleprcpGL.R2.rs.up
 R2.rs.up[11,4] <- HisoprcpGL.R2.rs.up
@@ -2738,7 +2738,7 @@ R2.rs.up[12,5] <- treeprcpGcorH.R2.rs.up
 R2.rs.up[6,6] <- MaO18prcpGH.R2.rs.up
 R2.rs.up[7,6] <- doleprcpGH.R2.rs.up
 R2.rs.up[11,6] <- HisoprcpGH.R2.rs.up
-R2.rs.up[12,6] <- treeprcpGH.R2.rs.up;
+R2.rs.up[12,6] <- treeprcpGH.R2.rs.up
 R2.rs.up[7,7] <- MaO18dole.R2.rs.up
 R2.rs.up[8,7] <- MaO18prcpL.R2.rs.up
 R2.rs.up[9,7] <- MaO18prcpH.R2.rs.up
@@ -2771,7 +2771,7 @@ R2.rs.mn[12,1] <- insoltree.R2.rs.mn
 R2.rs.mn[6,3] <- MaO18prcpGcorL.R2.rs.mn
 R2.rs.mn[7,3] <- doleprcpGcorL.R2.rs.mn
 R2.rs.mn[11,3] <- HisoprcpGcorL.R2.rs.mn
-R2.rs.mn[12,3] <- treeprcpGcorL.R2.rs.mn;
+R2.rs.mn[12,3] <- treeprcpGcorL.R2.rs.mn
 R2.rs.mn[6,4] <- MaO18prcpGL.R2.rs.mn
 R2.rs.mn[7,4] <- doleprcpGL.R2.rs.mn
 R2.rs.mn[11,4] <- HisoprcpGL.R2.rs.mn
@@ -2783,7 +2783,7 @@ R2.rs.mn[12,5] <- treeprcpGcorH.R2.rs.mn
 R2.rs.mn[6,6] <- MaO18prcpGH.R2.rs.mn
 R2.rs.mn[7,6] <- doleprcpGH.R2.rs.mn
 R2.rs.mn[11,6] <- HisoprcpGH.R2.rs.mn
-R2.rs.mn[12,6] <- treeprcpGH.R2.rs.mn;
+R2.rs.mn[12,6] <- treeprcpGH.R2.rs.mn
 R2.rs.mn[7,7] <- MaO18dole.R2.rs.mn
 R2.rs.mn[8,7] <- MaO18prcpL.R2.rs.mn
 R2.rs.mn[9,7] <- MaO18prcpH.R2.rs.mn
@@ -2816,7 +2816,7 @@ slope.rs.lo[12,1] <- insoltree.slope.rs.lo
 slope.rs.lo[6,3] <- MaO18prcpGcorL.slope.rs.lo
 slope.rs.lo[7,3] <- doleprcpGcorL.slope.rs.lo
 slope.rs.lo[11,3] <- HisoprcpGcorL.slope.rs.lo
-slope.rs.lo[12,3] <- treeprcpGcorL.slope.rs.lo;
+slope.rs.lo[12,3] <- treeprcpGcorL.slope.rs.lo
 slope.rs.lo[6,4] <- MaO18prcpGL.slope.rs.lo
 slope.rs.lo[7,4] <- doleprcpGL.slope.rs.lo
 slope.rs.lo[11,4] <- HisoprcpGL.slope.rs.lo
@@ -2828,7 +2828,7 @@ slope.rs.lo[12,5] <- treeprcpGcorH.slope.rs.lo
 slope.rs.lo[6,6] <- MaO18prcpGH.slope.rs.lo
 slope.rs.lo[7,6] <- doleprcpGH.slope.rs.lo
 slope.rs.lo[11,6] <- HisoprcpGH.slope.rs.lo
-slope.rs.lo[12,6] <- treeprcpGH.slope.rs.lo;
+slope.rs.lo[12,6] <- treeprcpGH.slope.rs.lo
 slope.rs.lo[7,7] <- MaO18dole.slope.rs.lo
 slope.rs.lo[8,7] <- MaO18prcpL.slope.rs.lo
 slope.rs.lo[9,7] <- MaO18prcpH.slope.rs.lo
@@ -2861,7 +2861,7 @@ slope.rs.up[12,1] <- insoltree.slope.rs.up
 slope.rs.up[6,3] <- MaO18prcpGcorL.slope.rs.up
 slope.rs.up[7,3] <- doleprcpGcorL.slope.rs.up
 slope.rs.up[11,3] <- HisoprcpGcorL.slope.rs.up
-slope.rs.up[12,3] <- treeprcpGcorL.slope.rs.up;
+slope.rs.up[12,3] <- treeprcpGcorL.slope.rs.up
 slope.rs.up[6,4] <- MaO18prcpGL.slope.rs.up
 slope.rs.up[7,4] <- doleprcpGL.slope.rs.up
 slope.rs.up[11,4] <- HisoprcpGL.slope.rs.up
@@ -2873,7 +2873,7 @@ slope.rs.up[12,5] <- treeprcpGcorH.slope.rs.up
 slope.rs.up[6,6] <- MaO18prcpGH.slope.rs.up
 slope.rs.up[7,6] <- doleprcpGH.slope.rs.up
 slope.rs.up[11,6] <- HisoprcpGH.slope.rs.up
-slope.rs.up[12,6] <- treeprcpGH.slope.rs.up;
+slope.rs.up[12,6] <- treeprcpGH.slope.rs.up
 slope.rs.up[7,7] <- MaO18dole.slope.rs.up
 slope.rs.up[8,7] <- MaO18prcpL.slope.rs.up
 slope.rs.up[9,7] <- MaO18prcpH.slope.rs.up
@@ -2906,7 +2906,7 @@ DWp.rs.mn[12,1] <- insoltree.DWp.rs.mn
 DWp.rs.mn[6,3] <- MaO18prcpGcorL.DWp.rs.mn
 DWp.rs.mn[7,3] <- doleprcpGcorL.DWp.rs.mn
 DWp.rs.mn[11,3] <- HisoprcpGcorL.DWp.rs.mn
-DWp.rs.mn[12,3] <- treeprcpGcorL.DWp.rs.mn;
+DWp.rs.mn[12,3] <- treeprcpGcorL.DWp.rs.mn
 DWp.rs.mn[6,4] <- MaO18prcpGL.DWp.rs.mn
 DWp.rs.mn[7,4] <- doleprcpGL.DWp.rs.mn
 DWp.rs.mn[11,4] <- HisoprcpGL.DWp.rs.mn
@@ -2918,7 +2918,7 @@ DWp.rs.mn[12,5] <- treeprcpGcorH.DWp.rs.mn
 DWp.rs.mn[6,6] <- MaO18prcpGH.DWp.rs.mn
 DWp.rs.mn[7,6] <- doleprcpGH.DWp.rs.mn
 DWp.rs.mn[11,6] <- HisoprcpGH.DWp.rs.mn
-DWp.rs.mn[12,6] <- treeprcpGH.DWp.rs.mn;
+DWp.rs.mn[12,6] <- treeprcpGH.DWp.rs.mn
 DWp.rs.mn[7,7] <- MaO18dole.DWp.rs.mn
 DWp.rs.mn[8,7] <- MaO18prcpL.DWp.rs.mn
 DWp.rs.mn[9,7] <- MaO18prcpH.DWp.rs.mn
@@ -3338,3 +3338,476 @@ plot(LOVECLIMprpNASA.dat$prcpSA.mn, LOVECLIMprpNASA.dat$prcpL.mn, pch=19, cex=0.
 LOVECLIMprpNASA.fit <- lm( LOVECLIMprpNASA.dat$prcpL.mn ~  LOVECLIMprpNASA.dat$prcpSA.mn)
 abline(LOVECLIMprpNASA.fit, lty=2, lwd=2, col="red")
 cor(na.omit(LOVECLIMprpNASA.dat[,c(2,5)]), method="spearman")
+
+
+
+################################################
+## Heinrich events vs. individual time series ##
+################################################
+
+# number of iterations
+iter <- 10000
+itdiv <- iter/10
+
+# % tree
+pr.ranGTobs <- rep(NA,iter)
+for (i in 1:iter) {
+
+  # generate a tree time series
+  age.it <- val.it <-  rep(NA,dim(tree)[1])
+  for (t in 1:dim(tree)[1]) {
+    age.it[t] <- rtruncnorm(1, a=0, b=Inf, tree$age[t], tree$ageSD[t]/2)
+    val.it[t] <- rnorm(1, tree$tree[t], tree$treeSD[t])
+  } # end t
+  tree.it <- data.frame(age.it, val.it)
+  colnames(tree.it) <- c("age", "tree")
+  tree.sort <- tree.it[order(tree.it[,1],decreasing=F),]
+  
+  # interpolate
+  intp.intvl <- seq(0,146,0.01)
+  tree.it.approx <- approx(tree.sort$age, tree.sort$tree, xout = intp.intvl)
+  tree.intp <- data.frame(tree.it.approx$x, tree.it.approx$y)
+  colnames(tree.intp) <- c("age", "tree")
+  #plot(tree.intp$age, tree.intp$tree, type="l")
+  
+  # shuffle Heinrichs
+  Hst.it <- runif(dim(Heinrich.dates)[1], min(tree.it$age,na.rm=T), max(tree.it$age,na.rm=T))
+  Hen.it <- Hst.it - Heinrich.dates$dur
+  Hen.it <- ifelse(Hen.it < 0, 0, Hen.it)
+  Heinrich.shuf <- data.frame(Hen.it,Hst.it)
+  Heinrich.shuf <- Heinrich.shuf[order(Heinrich.shuf[,1],decreasing=F),]
+  
+  # detect overlaps
+  ovrlp <- rep(NA,dim(Heinrich.shuf)[1]-1)
+  for (j in 1:(dim(Heinrich.shuf)[1] -1)) {
+    ovrlp[j] <- ifelse(Heinrich.shuf[j,2] > Heinrich.shuf[j+1,1], 1, 0)
+  } # end j
+  Heinrich.shuf$ovrlp <- c(ovrlp, NA)
+  Heinrich.shuf
+  
+  # remove overlaps
+  Heinrich.shuf.novrlp <- Heinrich.shuf[-which(Heinrich.shuf[,3]==1),]
+
+  # replace overlapped shuffled Heinrichs
+  H.new <- sum(Heinrich.shuf$ovrlp, na.rm=T)
+  Hdur.new <- Heinrich.shuf[which(Heinrich.shuf[,3]==1),][,2] - Heinrich.shuf[which(Heinrich.shuf[,3]==1),][,1]
+  Hst.new <- runif(H.new, min(tree.it$age,na.rm=T), max(tree.it$age,na.rm=T))
+  Hen.new <- Hst.new - Hdur.new
+  Hnew <- data.frame(Hst.new, Hen.new, rep(NA,H.new))
+  colnames(Hnew) <- c("Hen.it", "Hst.it", "ovrlp")
+  Heinrich.shuf <- rbind(Heinrich.shuf.novrlp, Hnew)
+  Heinrich.shuf <- Heinrich.shuf[order(Heinrich.shuf[,1],decreasing=F),]
+  
+  while (sum(Heinrich.shuf$ovrlp, na.rm = T) > 0) {
+    # detect overlaps
+    for (j in 1:(dim(Heinrich.shuf)[1] -1)) {
+      Heinrich.shuf$ovrlp[j] <- ifelse(Heinrich.shuf[j,2] > Heinrich.shuf[j+1,1], 1, 0)
+    } # end j
+    #Heinrich.shuf
+    
+    # remove overlaps
+    Heinrich.shuf.novrlp <- Heinrich.shuf[-which(Heinrich.shuf[,3]==1),]
+    
+    # replace overlapped shuffled Heinrichs
+    H.new <- sum(Heinrich.shuf$ovrlp, na.rm=T)
+    Hdur.new <- Heinrich.shuf[which(Heinrich.shuf[,3]==1),][,2] - Heinrich.shuf[which(Heinrich.shuf[,3]==1),][,1]
+    Hst.new <- runif(H.new, min(tree.it$age,na.rm=T), max(tree.it$age,na.rm=T))
+    Hen.new <- Hst.new - Hdur.new
+    Hnew <- data.frame(Hst.new, Hen.new, rep(NA,H.new))
+    colnames(Hnew) <- c("Hen.it", "Hst.it", "ovrlp")
+    Heinrich.shuf <- rbind(Heinrich.shuf.novrlp, Hnew)
+    Heinrich.shuf <- Heinrich.shuf[order(Heinrich.shuf[,1],decreasing=F),]
+    
+  } # end while
+  
+  # calculate overlap with proxy
+  Htree.obs <- Htree.ran <- rep(NA,length(Hst.it))
+  for(h in 1:length(Hst.it)) {
+    Htree.obs[h] <- mean(tree.intp[which(tree.intp$age <= Heinrich.dates[h,2] & tree.intp$age >= Heinrich.dates[h,1]),]$tree, na.rm=T)
+    Htree.ran[h] <- mean(tree.intp[which(tree.intp$age <= Heinrich.shuf[h,2] & tree.intp$age >= Heinrich.shuf[h,1]),]$tree, na.rm=T)
+  } # end h
+ 
+  pr.ranGTobs[i] <- ifelse(sum(Htree.ran, na.rm=T) >= sum(Htree.obs, na.rm=T), 1, 0)
+
+  if (i %% itdiv==0) print(i) 
+
+} # end i
+
+sum(pr.ranGTobs, na.rm=T)/iter
+
+
+# Hiso
+pr.ranGTobs <- rep(NA,iter)
+for (i in 1:iter) {
+  
+  # generate a Hiso time series
+  age.it <- val.it <-  rep(NA,dim(Hiso)[1])
+  for (t in 1:dim(Hiso)[1]) {
+    age.it[t] <- rtruncnorm(1, a=0, b=Inf, Hiso$age[t], Hiso$ageSD[t]/2)
+    val.it[t] <- rnorm(1, Hiso$DHprecip[t], Hiso$DHprecipSD[t])
+  } # end t
+  Hiso.it <- data.frame(age.it, val.it)
+  colnames(Hiso.it) <- c("age", "Hiso")
+  Hiso.sort <- Hiso.it[order(Hiso.it[,1],decreasing=F),]
+  
+  # interpolate
+  intp.intvl <- seq(0,146,0.01)
+  Hiso.it.approx <- approx(Hiso.sort$age, Hiso.sort$Hiso, xout = intp.intvl)
+  Hiso.intp <- data.frame(Hiso.it.approx$x, Hiso.it.approx$y)
+  colnames(Hiso.intp) <- c("age", "Hiso")
+  #plot(Hiso.intp$age, Hiso.intp$Hiso, type="l")
+  
+  # shuffle Heinrichs
+  Hst.it <- runif(dim(Heinrich.dates)[1], min(Hiso.it$age,na.rm=T), max(Hiso.it$age,na.rm=T))
+  Hen.it <- Hst.it - Heinrich.dates$dur
+  Hen.it <- ifelse(Hen.it < 0, 0, Hen.it)
+  Heinrich.shuf <- data.frame(Hen.it,Hst.it)
+  Heinrich.shuf <- Heinrich.shuf[order(Heinrich.shuf[,1],decreasing=F),]
+  
+  # detect overlaps
+  ovrlp <- rep(NA,dim(Heinrich.shuf)[1]-1)
+  for (j in 1:(dim(Heinrich.shuf)[1] -1)) {
+    ovrlp[j] <- ifelse(Heinrich.shuf[j,2] > Heinrich.shuf[j+1,1], 1, 0)
+  } # end j
+  Heinrich.shuf$ovrlp <- c(ovrlp, NA)
+  Heinrich.shuf
+  
+  # remove overlaps
+  Heinrich.shuf.novrlp <- Heinrich.shuf[-which(Heinrich.shuf[,3]==1),]
+  
+  # replace overlapped shuffled Heinrichs
+  H.new <- sum(Heinrich.shuf$ovrlp, na.rm=T)
+  Hdur.new <- Heinrich.shuf[which(Heinrich.shuf[,3]==1),][,2] - Heinrich.shuf[which(Heinrich.shuf[,3]==1),][,1]
+  Hst.new <- runif(H.new, min(Hiso.it$age,na.rm=T), max(Hiso.it$age,na.rm=T))
+  Hen.new <- Hst.new - Hdur.new
+  Hnew <- data.frame(Hst.new, Hen.new, rep(NA,H.new))
+  colnames(Hnew) <- c("Hen.it", "Hst.it", "ovrlp")
+  Heinrich.shuf <- rbind(Heinrich.shuf.novrlp, Hnew)
+  Heinrich.shuf <- Heinrich.shuf[order(Heinrich.shuf[,1],decreasing=F),]
+  
+  while (sum(Heinrich.shuf$ovrlp, na.rm = T) > 0) {
+    # detect overlaps
+    for (j in 1:(dim(Heinrich.shuf)[1] -1)) {
+      Heinrich.shuf$ovrlp[j] <- ifelse(Heinrich.shuf[j,2] > Heinrich.shuf[j+1,1], 1, 0)
+    } # end j
+    #Heinrich.shuf
+    
+    # remove overlaps
+    Heinrich.shuf.novrlp <- Heinrich.shuf[-which(Heinrich.shuf[,3]==1),]
+    
+    # replace overlapped shuffled Heinrichs
+    H.new <- sum(Heinrich.shuf$ovrlp, na.rm=T)
+    Hdur.new <- Heinrich.shuf[which(Heinrich.shuf[,3]==1),][,2] - Heinrich.shuf[which(Heinrich.shuf[,3]==1),][,1]
+    Hst.new <- runif(H.new, min(Hiso.it$age,na.rm=T), max(Hiso.it$age,na.rm=T))
+    Hen.new <- Hst.new - Hdur.new
+    Hnew <- data.frame(Hst.new, Hen.new, rep(NA,H.new))
+    colnames(Hnew) <- c("Hen.it", "Hst.it", "ovrlp")
+    Heinrich.shuf <- rbind(Heinrich.shuf.novrlp, Hnew)
+    Heinrich.shuf <- Heinrich.shuf[order(Heinrich.shuf[,1],decreasing=F),]
+    
+  } # end while
+  
+  # calculate overlap with proxy
+  HHiso.obs <- HHiso.ran <- rep(NA,length(Hst.it))
+  for(h in 1:length(Hst.it)) {
+    HHiso.obs[h] <- mean(Hiso.intp[which(Hiso.intp$age <= Heinrich.dates[h,2] & Hiso.intp$age >= Heinrich.dates[h,1]),]$Hiso, na.rm=T)
+    HHiso.ran[h] <- mean(Hiso.intp[which(Hiso.intp$age <= Heinrich.shuf[h,2] & Hiso.intp$age >= Heinrich.shuf[h,1]),]$Hiso, na.rm=T)
+  } # end h
+  
+  pr.ranGTobs[i] <- ifelse(sum(HHiso.ran, na.rm=T) >= sum(HHiso.obs, na.rm=T), 1, 0)
+  
+  if (i %% itdiv==0) print(i) 
+  
+} # end i
+
+sum(pr.ranGTobs, na.rm=T)/iter
+
+
+# toc
+pr.ranGTobs <- rep(NA,iter)
+for (i in 1:iter) {
+  
+  # generate a toc time series
+  age.it <- val.it <-  rep(NA,dim(toc)[1])
+  for (t in 1:dim(toc)[1]) {
+    age.it[t] <- rtruncnorm(1, a=0, b=Inf, toc$age[t], toc$ageSD[t]/2)
+    val.it[t] <- rnorm(1, toc$toc[t], toc$tocSD[t])
+  } # end t
+  toc.it <- data.frame(age.it, val.it)
+  colnames(toc.it) <- c("age", "toc")
+  toc.sort <- toc.it[order(toc.it[,1],decreasing=F),]
+  
+  # interpolate
+  intp.intvl <- seq(0,155,0.01)
+  toc.it.approx <- approx(toc.sort$age, toc.sort$toc, xout = intp.intvl)
+  toc.intp <- data.frame(toc.it.approx$x, toc.it.approx$y)
+  colnames(toc.intp) <- c("age", "toc")
+  #plot(toc.intp$age, toc.intp$toc, type="l")
+  
+  # remove toc < threshold
+  #toc.thresh <- 2 # 5.1
+  # toc.intp <- toc.intp[toc.intp$toc > toc.thresh, ]
+  
+  # remove data from 64 ka to 17 ka
+  toc.intp <- toc.intp[-which(toc.intp$age < 64 & toc.intp$age > 17), ]
+  Heinrich.dates.rem <- Heinrich.dates[-c(3:8),]
+  
+  # shuffle Heinrichs
+  Hst.it1 <- runif(dim(Heinrich.dates.rem)[1], min(toc.it$age,na.rm=T), 17)
+  Hen.it1 <- Hst.it1 - Heinrich.dates.rem$dur
+  Hen.it1 <- ifelse(Hen.it1 < 0, 0, Hen.it1)
+  Hst.it2 <- runif(dim(Heinrich.dates.rem)[1], 64, max(toc.it$age,na.rm=T))
+  Hen.it2 <- Hst.it2 - Heinrich.dates.rem$dur
+  Hen.it2 <- ifelse(Hen.it2 < 17, 17, Hen.it2)
+
+  Heinrich.shuf <- data.frame(c(Hen.it1, Hen.it2), c(Hst.it1,Hst.it2))
+  Heinrich.shuf <- Heinrich.shuf[order(Heinrich.shuf[,1],decreasing=F),]
+  colnames(Heinrich.shuf) <- c("Hen.it","Hst.it")
+  
+  # detect overlaps
+  ovrlp <- rep(NA,dim(Heinrich.shuf)[1]-1)
+  for (j in 1:(dim(Heinrich.shuf)[1] -1)) {
+    ovrlp[j] <- ifelse(Heinrich.shuf[j,2] > Heinrich.shuf[j+1,1], 1, 0)
+  } # end j
+  Heinrich.shuf$ovrlp <- c(ovrlp, NA)
+  Heinrich.shuf
+  
+  # remove overlaps
+  Heinrich.shuf.novrlp <- Heinrich.shuf[-which(Heinrich.shuf[,3]==1),]
+  
+  # replace overlapped shuffled Heinrichs
+  H.new1 <- sum(Heinrich.shuf$ovrlp[Heinrich.shuf$c.Hst.it1..Hst.it2. < 17], na.rm=T)
+  Hdur.new1 <- Heinrich.shuf[which(Heinrich.shuf[Heinrich.shuf$c.Hst.it1..Hst.it2. < 17, 3]==1),][,2] - 
+    Heinrich.shuf[which(Heinrich.shuf[Heinrich.shuf$c.Hst.it1..Hst.it2. < 17, 3]==1),][,1]
+  Hst.new1 <- runif(H.new1, min(toc.it$age,na.rm=T), 17)
+  Hen.new1 <- Hst.new1 - Hdur.new1
+  H.new2 <- sum(Heinrich.shuf$ovrlp[Heinrich.shuf$c.Hst.it1..Hst.it2. > 64], na.rm=T)
+  Hdur.new2 <- Heinrich.shuf[which(Heinrich.shuf[Heinrich.shuf$c.Hst.it1..Hst.it2. > 64, 3]==1),][,2] - 
+    Heinrich.shuf[which(Heinrich.shuf[Heinrich.shuf$c.Hst.it1..Hst.it2. > 64, 3]==1),][,1]
+  Hst.new2 <- runif(H.new2, 64, max(toc.it$age,na.rm=T))
+  Hen.new2 <- Hst.new2 - Hdur.new2
+  
+  Hnew <- data.frame(c(Hst.new1,Hst.new2), c(Hen.new1,Hen.new2), rep(NA,(H.new1+H.new2)))
+  colnames(Hnew) <- c("Hen.it", "Hst.it", "ovrlp")
+  Heinrich.shuf <- rbind(Heinrich.shuf.novrlp, Hnew)
+  Heinrich.shuf <- Heinrich.shuf[order(Heinrich.shuf[,1],decreasing=F),]
+  
+  while (sum(Heinrich.shuf$ovrlp, na.rm = T) > 0) {
+    # detect overlaps
+    for (j in 1:(dim(Heinrich.shuf)[1] -1)) {
+      Heinrich.shuf$ovrlp[j] <- ifelse(Heinrich.shuf[j,2] > Heinrich.shuf[j+1,1], 1, 0)
+    } # end j
+    #Heinrich.shuf
+    
+    # remove overlaps
+    Heinrich.shuf.novrlp <- Heinrich.shuf[-which(Heinrich.shuf[,3]==1),]
+    
+    # replace overlapped shuffled Heinrichs
+    H.new1 <- sum(Heinrich.shuf$ovrlp[Heinrich.shuf$c.Hst.it1..Hst.it2. < 17], na.rm=T)
+    Hdur.new1 <- Heinrich.shuf[which(Heinrich.shuf[Heinrich.shuf$c.Hst.it1..Hst.it2. < 17, 3]==1),][,2] - 
+      Heinrich.shuf[which(Heinrich.shuf[Heinrich.shuf$c.Hst.it1..Hst.it2. < 17, 3]==1),][,1]
+    Hst.new1 <- runif(H.new1, min(toc.it$age,na.rm=T), 17)
+    Hen.new1 <- Hst.new1 - Hdur.new1
+    H.new2 <- sum(Heinrich.shuf$ovrlp[Heinrich.shuf$c.Hst.it1..Hst.it2. > 64], na.rm=T)
+    Hdur.new2 <- Heinrich.shuf[which(Heinrich.shuf[Heinrich.shuf$c.Hst.it1..Hst.it2. > 64, 3]==1),][,2] - 
+      Heinrich.shuf[which(Heinrich.shuf[Heinrich.shuf$c.Hst.it1..Hst.it2. > 64, 3]==1),][,1]
+    Hst.new2 <- runif(H.new2, 64, max(toc.it$age))
+    Hen.new2 <- Hst.new2 - Hdur.new2
+    
+    Hnew <- data.frame(c(Hst.new1,Hst.new2), c(Hen.new1,Hen.new2), rep(NA,(H.new1+H.new2)))
+    colnames(Hnew) <- c("Hen.it", "Hst.it", "ovrlp")
+    Heinrich.shuf <- rbind(Heinrich.shuf.novrlp, Hnew)
+    Heinrich.shuf <- Heinrich.shuf[order(Heinrich.shuf[,1],decreasing=F),]
+    
+  } # end while
+  
+  # calculate overlap with proxy
+  Htoc.obs <- Htoc.ran <- rep(NA,length(Hst.it))
+  for(h in 1:length(Hst.it)) {
+    Htoc.obs[h] <- mean(toc.intp[which(toc.intp$age <= Heinrich.dates[h,2] & toc.intp$age >= Heinrich.dates[h,1]),]$toc, na.rm=T)
+    Htoc.ran[h] <- mean(toc.intp[which(toc.intp$age <= Heinrich.shuf[h,2] & toc.intp$age >= Heinrich.shuf[h,1]),]$toc, na.rm=T)
+  } # end h
+  
+  pr.ranGTobs[i] <- ifelse(sum(Htoc.ran, na.rm=T) >= sum(Htoc.obs, na.rm=T), 1, 0)
+  
+  if (i %% itdiv==0) print(i) 
+  
+} # end i
+
+sum(pr.ranGTobs, na.rm=T)/iter
+
+
+# speleothem
+pr.ranGTobs <- rep(NA,iter)
+for (i in 1:iter) {
+  
+  # generate a speleo time series
+  age.it <- val.it <-  rep(NA,dim(chspeleo)[1])
+  for (t in 1:dim(chspeleo)[1]) {
+    age.it[t] <- rtruncnorm(1, a=0, b=Inf, chspeleo$age[t], chspeleo$ageSD[t])
+    val.it[t] <- rnorm(1, chspeleo$MaO18[t], chspeleo$MaO18SD[t])
+  } # end t
+  speleo.it <- data.frame(age.it, val.it)
+  colnames(speleo.it) <- c("age", "speleo")
+  speleo.sort <- speleo.it[order(speleo.it[,1],decreasing=F),]
+  
+  # interpolate
+  intp.intvl <- seq(0,152,0.001)
+  speleo.it.approx <- approx(speleo.sort$age, speleo.sort$speleo, xout = intp.intvl)
+  speleo.intp <- data.frame(speleo.it.approx$x, speleo.it.approx$y)
+  colnames(speleo.intp) <- c("age", "speleo")
+  #plot(speleo.intp$age, speleo.intp$speleo, type="l")
+  
+  # shuffle Heinrichs
+  Hst.it <- runif(dim(Heinrich.dates)[1], min(speleo.it$age,na.rm=T), max(speleo.it$age,na.rm=T))
+  Hen.it <- Hst.it - Heinrich.dates$dur
+  Hen.it <- ifelse(Hen.it < 0, 0, Hen.it)
+  Heinrich.shuf <- data.frame(Hen.it,Hst.it)
+  Heinrich.shuf <- Heinrich.shuf[order(Heinrich.shuf[,1],decreasing=F),]
+  
+  # detect overlaps
+  ovrlp <- rep(NA,dim(Heinrich.shuf)[1]-1)
+  for (j in 1:(dim(Heinrich.shuf)[1] -1)) {
+    ovrlp[j] <- ifelse(Heinrich.shuf[j,2] > Heinrich.shuf[j+1,1], 1, 0)
+  } # end j
+  Heinrich.shuf$ovrlp <- c(ovrlp, NA)
+  Heinrich.shuf
+  
+  # remove overlaps
+  Heinrich.shuf.novrlp <- Heinrich.shuf[-which(Heinrich.shuf[,3]==1),]
+  
+  # replace overlapped shuffled Heinrichs
+  H.new <- sum(Heinrich.shuf$ovrlp, na.rm=T)
+  Hdur.new <- Heinrich.shuf[which(Heinrich.shuf[,3]==1),][,2] - Heinrich.shuf[which(Heinrich.shuf[,3]==1),][,1]
+  Hst.new <- runif(H.new, min(speleo.it$age,na.rm=T), max(speleo.it$age,na.rm=T))
+  Hen.new <- Hst.new - Hdur.new
+  Hnew <- data.frame(Hst.new, Hen.new, rep(NA,H.new))
+  colnames(Hnew) <- c("Hen.it", "Hst.it", "ovrlp")
+  Heinrich.shuf <- rbind(Heinrich.shuf.novrlp, Hnew)
+  Heinrich.shuf <- Heinrich.shuf[order(Heinrich.shuf[,1],decreasing=F),]
+  
+  while (sum(Heinrich.shuf$ovrlp, na.rm = T) > 0) {
+    # detect overlaps
+    for (j in 1:(dim(Heinrich.shuf)[1] -1)) {
+      Heinrich.shuf$ovrlp[j] <- ifelse(Heinrich.shuf[j,2] > Heinrich.shuf[j+1,1], 1, 0)
+    } # end j
+    #Heinrich.shuf
+    
+    # remove overlaps
+    Heinrich.shuf.novrlp <- Heinrich.shuf[-which(Heinrich.shuf[,3]==1),]
+    
+    # replace overlapped shuffled Heinrichs
+    H.new <- sum(Heinrich.shuf$ovrlp, na.rm=T)
+    Hdur.new <- Heinrich.shuf[which(Heinrich.shuf[,3]==1),][,2] - Heinrich.shuf[which(Heinrich.shuf[,3]==1),][,1]
+    Hst.new <- runif(H.new, min(speleo.it$age), max(speleo.it$age,na.rm=T))
+    Hen.new <- Hst.new - Hdur.new
+    Hnew <- data.frame(Hst.new, Hen.new, rep(NA,H.new))
+    colnames(Hnew) <- c("Hen.it", "Hst.it", "ovrlp")
+    Heinrich.shuf <- rbind(Heinrich.shuf.novrlp, Hnew)
+    Heinrich.shuf <- Heinrich.shuf[order(Heinrich.shuf[,1],decreasing=F),]
+    
+  } # end while
+  
+  # calculate overlap with proxy
+  Hspeleo.obs <- Hspeleo.ran <- rep(NA,length(Hst.it))
+  for(h in 1:length(Hst.it)) {
+    Hspeleo.obs[h] <- mean(speleo.intp[which(speleo.intp$age <= Heinrich.dates[h,2] & speleo.intp$age >= Heinrich.dates[h,1]),]$speleo, na.rm=T)
+    Hspeleo.ran[h] <- mean(speleo.intp[which(speleo.intp$age <= Heinrich.shuf[h,2] & speleo.intp$age >= Heinrich.shuf[h,1]),]$speleo, na.rm=T)
+  } # end h
+  
+  pr.ranGTobs[i] <- ifelse(sum(Hspeleo.ran, na.rm=T) >= sum(Hspeleo.obs, na.rm=T), 1, 0)
+  
+  if (i %% itdiv==0) print(i) 
+  
+} # end i
+
+sum(pr.ranGTobs, na.rm=T)/iter
+
+
+
+# dole
+pr.ranGTobs <- rep(NA,iter)
+for (i in 1:iter) {
+  
+  # generate a dole time series
+  age.it <- val.it <-  rep(NA,dim(dole)[1])
+  for (t in 1:dim(dole)[1]) {
+    age.it[t] <- rtruncnorm(1, a=0, b=Inf, dole$age[t], dole$ageSD[t])
+    val.it[t] <- rnorm(1, dole$dDE[t], dole$dDESD[t])
+  } # end t
+  dole.it <- data.frame(age.it, val.it)
+  dole.it <- data.frame(age.it, val.it)
+  colnames(dole.it) <- c("age", "dole")
+  dole.sort <- dole.it[order(dole.it[,1],decreasing=F),]
+  
+  # interpolate
+  intp.intvl <- seq(0,152,0.001)
+  dole.it.approx <- approx(dole.sort$age, dole.sort$dole, xout = intp.intvl)
+  dole.intp <- data.frame(dole.it.approx$x, dole.it.approx$y)
+  colnames(dole.intp) <- c("age", "dole")
+  #plot(dole.intp$age, dole.intp$dole, type="l")
+  
+  # shuffle Heinrichs
+  Hst.it <- runif(dim(Heinrich.dates)[1], min(dole.it$age,na.rm=T), max(dole.it$age,na.rm=T))
+  Hen.it <- Hst.it - Heinrich.dates$dur
+  Hen.it <- ifelse(Hen.it < 0, 0, Hen.it)
+  Heinrich.shuf <- data.frame(Hen.it,Hst.it)
+  Heinrich.shuf <- Heinrich.shuf[order(Heinrich.shuf[,1],decreasing=F),]
+  
+  # detect overlaps
+  ovrlp <- rep(NA,dim(Heinrich.shuf)[1]-1)
+  for (j in 1:(dim(Heinrich.shuf)[1] -1)) {
+    ovrlp[j] <- ifelse(Heinrich.shuf[j,2] > Heinrich.shuf[j+1,1], 1, 0)
+  } # end j
+  Heinrich.shuf$ovrlp <- c(ovrlp, NA)
+  Heinrich.shuf
+  
+  # remove overlaps
+  Heinrich.shuf.novrlp <- Heinrich.shuf[-which(Heinrich.shuf[,3]==1),]
+  
+  # replace overlapped shuffled Heinrichs
+  H.new <- sum(Heinrich.shuf$ovrlp, na.rm=T)
+  Hdur.new <- Heinrich.shuf[which(Heinrich.shuf[,3]==1),][,2] - Heinrich.shuf[which(Heinrich.shuf[,3]==1),][,1]
+  Hst.new <- runif(H.new, min(dole.it$age,na.rm=T), max(dole.it$age,na.rm=T))
+  Hen.new <- Hst.new - Hdur.new
+  Hnew <- data.frame(Hst.new, Hen.new, rep(NA,H.new))
+  colnames(Hnew) <- c("Hen.it", "Hst.it", "ovrlp")
+  Heinrich.shuf <- rbind(Heinrich.shuf.novrlp, Hnew)
+  Heinrich.shuf <- Heinrich.shuf[order(Heinrich.shuf[,1],decreasing=F),]
+  
+  while (sum(Heinrich.shuf$ovrlp, na.rm = T) > 0) {
+    # detect overlaps
+    for (j in 1:(dim(Heinrich.shuf)[1] -1)) {
+      Heinrich.shuf$ovrlp[j] <- ifelse(Heinrich.shuf[j,2] > Heinrich.shuf[j+1,1], 1, 0)
+    } # end j
+    #Heinrich.shuf
+    
+    # remove overlaps
+    Heinrich.shuf.novrlp <- Heinrich.shuf[-which(Heinrich.shuf[,3]==1),]
+    
+    # replace overlapped shuffled Heinrichs
+    H.new <- sum(Heinrich.shuf$ovrlp, na.rm=T)
+    Hdur.new <- Heinrich.shuf[which(Heinrich.shuf[,3]==1),][,2] - Heinrich.shuf[which(Heinrich.shuf[,3]==1),][,1]
+    Hst.new <- runif(H.new, min(dole.it$age), max(dole.it$age,na.rm=T))
+    Hen.new <- Hst.new - Hdur.new
+    Hnew <- data.frame(Hst.new, Hen.new, rep(NA,H.new))
+    colnames(Hnew) <- c("Hen.it", "Hst.it", "ovrlp")
+    Heinrich.shuf <- rbind(Heinrich.shuf.novrlp, Hnew)
+    Heinrich.shuf <- Heinrich.shuf[order(Heinrich.shuf[,1],decreasing=F),]
+    
+  } # end while
+  
+  # calculate overlap with proxy
+  Hdole.obs <- Hdole.ran <- rep(NA,length(Hst.it))
+  for(h in 1:length(Hst.it)) {
+    Hdole.obs[h] <- mean(dole.intp[which(dole.intp$age <= Heinrich.dates[h,2] & dole.intp$age >= Heinrich.dates[h,1]),]$dole, na.rm=T)
+    Hdole.ran[h] <- mean(dole.intp[which(dole.intp$age <= Heinrich.shuf[h,2] & dole.intp$age >= Heinrich.shuf[h,1]),]$dole, na.rm=T)
+  } # end h
+  
+  pr.ranGTobs[i] <- ifelse(sum(Hdole.ran, na.rm=T) >= sum(Hdole.obs, na.rm=T), 1, 0)
+  
+  if (i %% itdiv==0) print(i) 
+  
+} # end i
+
+sum(pr.ranGTobs, na.rm=T)/iter
