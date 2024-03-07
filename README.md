@@ -1,4 +1,6 @@
 # Indo-Australian Monsoon record
+<a href="https://doi.org/10.5281/zenodo.10791249"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10791249.svg" alt="DOI"></a>
+
 A continuous, absolute-dated, 150,000-year record of monsoon hydroclimate dynamics from a permanent lagoon (<a href="https://doi.org/10.1017/qua.2020.50">Girraween</a>) in the core monsoon region of northern Australia, compared to global circulation model hindcasts
 <p><a href="https://www.arc.gov.au/news-publications/media/research-highlights/getting-bottom-girraween-lagoon"><img align="bottom-left" src="www/GirraweenCoring.jpg" alt="coring on Girraween Lagoon" width="350" style="margin-bottom: 20px"></a> &nbsp; &nbsp; &nbsp; &nbsp; <img align="bottom-right" src="www/LOVECLIMspelprcpLprcpGcorL.jpg" alt="example time series" width="420" style="margin-top: 60px"></p>
 
