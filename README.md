@@ -15,6 +15,7 @@ Nearly two thirds of the world’s population depends on monsoon rainfall. Monso
 
 ## <a href="https://github.com/cjabradshaw/IndoAustralianMoonsoon/tree/main/scripts">Scripts</a>
 - <a href="https://github.com/cjabradshaw/IndoAustralianMoonsoon/blob/main/scripts/GirraweenMonsoonGithub.R"><code>GirraweenMonsoonGithub.R</code></a>
+- <a href="https://github.com/cjabradshaw/IndoAustralianMoonsoon/blob/main/scripts/Heinrich-tree simulation.R"><code>Heinrich-tree simulation.R</code></a>
 
 ## <a href="https://github.com/cjabradshaw/IndoAustralianMoonsoon/tree/main/data">Data</a>
 - <em>ChSpeleo2.csv</em>: China <a href="https://doi.org/10.1029/2011GL050202">speleothem</a> record (<sup>18</sup>O)
