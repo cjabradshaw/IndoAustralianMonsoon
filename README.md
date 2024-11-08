@@ -32,6 +32,7 @@ Nearly two thirds of the world’s population depend on monsoon rainfall. Monsoo
 - <em>insol.csv</em>: <a href="https://www.sciencedirect.com/topics/earth-and-planetary-sciences/insolation">insolation</a> W m<sup>-2</sup>
 - <em>toc.csv</em>: % total organic carbon (<a href="https://doi.org/10.1017/qua.2020.50">Girraween</a> core)
 - <em>tree.csv</em>: % tree pollen (<a href="https://doi.org/10.1017/qua.2020.50">Girraween</a> core)
+- <em>d2c.csv</em>: distance to coast (km) through time based on sea-level changes
 
 ## R libraries
 - <code>spatstat</code>, <code>gstat</code>, <code>maps</code>, <code>sp</code>, <code>ape</code>, <code>permute</code>, <code>ggplot2</code>, <code>dplyr</code>, <code>boot</code>
