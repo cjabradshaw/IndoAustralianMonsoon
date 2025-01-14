@@ -45,5 +45,5 @@ Nearly two thirds of the world’s population depend on monsoon rainfall. Monsoo
 
 <p><a href="https://www.flinders.edu.au"><img align="bottom-left" src="www/Flinders_University_Logo_Horizontal_RGB_Master.png" alt="Flinders University logo" width="160" style="margin-top: 20px"></a>  &nbsp; &nbsp;
 <a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="80" style="margin-top: 20px"></a>  &nbsp; &nbsp;
- <a href="https://EpicAustralia.org.au"><img align="bottom-left" src="www/CabahFCL.jpg" alt="CABAH logo" width="200" style="margin-top: 20px"></a>  &nbsp; &nbsp; <a href="https://www.jcu.edu.au"><img align="bottom-left" src="www/jculogo.png" alt="JCU logo" width="70" style="margin-top: 20px"></a></a></p>
-
+ <a href="https://EpicAustralia.org.au"><img align="bottom-left" src="www/CabahFCL.jpg" alt="CABAH logo" width="200" style="margin-top: 20px"></a>  &nbsp; &nbsp;
+ <a href="https://ciehf.au"><img align="bottom-left" src="www/CIEHFlogoHorizTransp.png" alt="CIEHF logo" width="200" style="margin-top: 20px"></a>  &nbsp; &nbsp; <a href="https://www.jcu.edu.au"><img align="bottom-left" src="www/jculogo.png" alt="JCU logo" width="70" style="margin-top: 20px"></a></a></p>
